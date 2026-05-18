@@ -33,12 +33,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
     },
     {
+      url: `${baseUrl}/immobiliaria-manlleu`,
+      lastModified: new Date(),
+    },
+    {
       url: `${baseUrl}/politica-privacitat`,
       lastModified: new Date(),
     },
   ];
 }
-{
-  url: `${baseUrl}/immobiliaria-manlleu`,
-  lastModified: new Date(),
-},
