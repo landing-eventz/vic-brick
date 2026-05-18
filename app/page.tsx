@@ -101,6 +101,14 @@ export default function HomePage() {
                 Entrar al blog →
               </a>
 
+              <a href="/vendre-pis-osona" className="text-red-500 underline block">
+                Guia vendre pis Osona →
+              </a>
+
+              <a href="/vendre-pis-vic" className="text-red-500 underline block">
+                Vendre pis Vic →
+              </a>
+
               <a href="/immobiliaria-manlleu" className="text-red-500 underline block">
                 Immobiliària Manlleu →
               </a>
