@@ -153,7 +153,7 @@ export default function HomePage() {
             <div className="mt-10">
               <a
                 href="/blog"
-                className="text-blue-400 underline"
+                className="text-red-500 underline hover:text-red-400"
               >
                 Entrar al blog →
               </a>

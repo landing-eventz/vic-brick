@@ -38,3 +38,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 }
+{
+  url: `${baseUrl}/immobiliaria-manlleu`,
+  lastModified: new Date(),
+},
