@@ -11,8 +11,20 @@ export default function BlogPage() {
 
       <ul className="mt-10 space-y-4">
         <li>
-          <a href="/blog/vendre-pis-vic-2026" className="text-blue-400">
+          <a href="/blog/vendre-pis-vic-2026" className="text-red-500 hover:text-red-400 underline">
             Vendre pis a Vic el 2026
+          </a>
+        </li>
+
+        <li>
+          <a href="/blog/preu-pis-vic-2026" className="text-red-500 hover:text-red-400 underline">
+            Preu pis Vic 2026
+          </a>
+        </li>
+
+        <li>
+          <a href="/blog/com-vendre-pis-vic-rapid" className="text-red-500 hover:text-red-400 underline">
+            Com vendre un pis ràpid a Vic
           </a>
         </li>
       </ul>
